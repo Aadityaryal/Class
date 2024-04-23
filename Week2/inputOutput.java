@@ -1,5 +1,5 @@
-package Week1;
-//Task 4
+package Week2;
+//Task 3
 import java.util.Scanner;
 /*Or
  * import java.util.*;

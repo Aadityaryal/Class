@@ -1,5 +1,5 @@
-package Week1;
-/*Task 3 */
+package Week2;
+/*Task 2 */
 public class OperatorClass {
     public static void main(String[] args) {
         /*Arithmetic Operators */

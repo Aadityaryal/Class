@@ -1,5 +1,5 @@
-package Week1;
-/*Task 2 */
+package Week2;
+/*Task 1 */
 public class Variable {
     /*Instance Variable
      * Will need object to access this variable

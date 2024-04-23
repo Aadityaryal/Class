@@ -1,5 +1,5 @@
-package Week1;
-//Task 4
+package Week2;
+//Task 3
 public class JavaArgument {
     public static void main(String[] args) {
         if(args.length<2){
